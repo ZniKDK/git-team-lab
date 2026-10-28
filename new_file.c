@@ -2,6 +2,7 @@
 
 int main(void)
 {
-printf("Weather forecast\n");
+    printf("Weather forecast\n");
     printf("Cloudy, +10\n");
-return 0;
+    return 0;
+}
